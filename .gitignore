@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.db  # Para o SQLite
+data/*  # Exceto mocks, se quiser
