@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+backgroundColor = "white"
+
+
+[theme.sidebar]
+backgroundColor = "ghostWhite"
