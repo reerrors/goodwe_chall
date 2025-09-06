@@ -8,11 +8,13 @@ import random
 # Configuração da página
 st.set_page_config(
     page_title="análises",
-    page_icon="images/goodwe_favicon.png",
+    page_icon="images/logo.svg",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
-st.header("Análises")
+
+st.image("https://helte.com.br/wp-content/uploads/2024/05/Logo-Goodwe-Vermelha-e1716986463780.png", width=140)
+
 # CSS customizado em tons de cinza e preto
 st.markdown("""
 <style>
